@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+  }
+  #result {
+    font-size: 48px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  #rollBtn {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
